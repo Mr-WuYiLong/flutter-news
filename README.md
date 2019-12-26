@@ -1,8 +1,10 @@
 # futter_news
 
-![1](https://www.wuyilong.cc/images/imgs/2.png)
-![2](https://www.wuyilong.cc/images/imgs/3.png)
-![3](https://www.wuyilong.cc/images/imgs/4.png)
+
+<img src="https://www.wuyilong.cc/images/imgs/2.png" width="250"/>
+<img src="https://www.wuyilong.cc/images/imgs/2.png" width="250"/>
+<img src="https://www.wuyilong.cc/images/imgs/2.png" width="250"/>
+
 
 
 - 启动项目
@@ -15,4 +17,8 @@ flutter run
 
 - 建议
 
-先去官网了解下fish_reducer的执行过程，要不看得，模模糊糊的
+先去官网了解下fish_reducer的执行过程，要不看得，模模糊糊!
+
+- 交流
+
+本人也是初入门的小白，希望多多交流！
