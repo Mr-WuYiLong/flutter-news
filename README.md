@@ -1,16 +1,18 @@
-# futter_demo1
+# futter_news
 
-A new Flutter project.
+![1](https://www.wuyilong.cc/images/imgs/2.png)
+![2](https://www.wuyilong.cc/images/imgs/3.png)
+![3](https://www.wuyilong.cc/images/imgs/4.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+- 启动项目
 
-A few resources to get you started if this is your first Flutter project:
+flutter run
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- 数据来源
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+易源接口的免费api
+
+- 建议
+
+先去官网了解下fish_reducer的执行过程，要不看得，模模糊糊的
