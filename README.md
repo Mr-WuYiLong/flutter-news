@@ -1,12 +1,9 @@
 # futter_news
 
-
-![lbjXHU.png](https://s2.ax1x.com/2020/01/14/lbjXHU.png)
-![lbjxN4.png](https://s2.ax1x.com/2020/01/14/lbjxN4.png)
-![lbjz4J.png](https://s2.ax1x.com/2020/01/14/lbjz4J.png)
-![lbjvEF.png](https://s2.ax1x.com/2020/01/14/lbjvEF.png)
-
-
+[![lbjXHU.md.png](https://s2.ax1x.com/2020/01/14/lbjXHU.md.png)](https://imgchr.com/i/lbjXHU)
+[![lbjxN4.md.png](https://s2.ax1x.com/2020/01/14/lbjxN4.md.png)](https://imgchr.com/i/lbjxN4)
+[![lbjz4J.md.png](https://s2.ax1x.com/2020/01/14/lbjz4J.md.png)](https://imgchr.com/i/lbjz4J)
+[![lbjvEF.md.png](https://s2.ax1x.com/2020/01/14/lbjvEF.md.png)](https://imgchr.com/i/lbjvEF)
 
 - 启动项目
 
