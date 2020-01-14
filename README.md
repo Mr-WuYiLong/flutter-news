@@ -1,9 +1,10 @@
 # futter_news
 
 
-<img src="https://www.wuyilong.cc/images/imgs/2.png" width="250"/>
-<img src="https://www.wuyilong.cc/images/imgs/2.png" width="250"/>
-<img src="https://www.wuyilong.cc/images/imgs/2.png" width="250"/>
+![lbjXHU.png](https://s2.ax1x.com/2020/01/14/lbjXHU.png)
+![lbjxN4.png](https://s2.ax1x.com/2020/01/14/lbjxN4.png)
+![lbjz4J.png](https://s2.ax1x.com/2020/01/14/lbjz4J.png)
+![lbjvEF.png](https://s2.ax1x.com/2020/01/14/lbjvEF.png)
 
 
 
